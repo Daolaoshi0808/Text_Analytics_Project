@@ -2,6 +2,7 @@
 - Download the project as a zip folder
 - cd to the project
 - Make sure you have Docker Installed
+- There is a pre recorded video in the presentation showing how to run and interact with the interactive tool
 ```
 docker build -t text-interactive .
 docker run -p 8501:8501 text-interactive
