@@ -22,3 +22,6 @@ docker run -p 8501:8501 text-interactive
 ## The Short Summarization Data Link
 
 [https://drive.google.com/file/d/1chiBRz1A_6PmZnqnTFNEk0mP7yxzh_Am/view?usp=drive_link](Legal_Case_Tiny_Summary)
+
+## Link to the Presentation
+https://nuwildcat-my.sharepoint.com/:p:/g/personal/jmf8305_ads_northwestern_edu/EbTW5CZuH4VHqQGCwAqHSngBz8HbnfYYBKxhg2znYX0hmw
