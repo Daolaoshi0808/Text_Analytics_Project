@@ -14,14 +14,14 @@ docker run -p 8501:8501 text-interactive
 
 ## The Long Summarization Data Link
 
-[https://drive.google.com/file/d/1iUk9Fq2rtJ2SIcNO1VY-6L30-vK-CHVa/view?usp=drive_link]
+https://drive.google.com/file/d/1iUk9Fq2rtJ2SIcNO1VY-6L30-vK-CHVa/view?usp=drive_link
 
 ## The Short Summarization Data Link
-[https://drive.google.com/file/d/1KqHmN0MWO_J1phdk1bGQoQrVXZJ0fnkB/view?usp=drive_link](Legal_Case_Short_Summary)
+https://drive.google.com/file/d/1KqHmN0MWO_J1phdk1bGQoQrVXZJ0fnkB/view?usp=drive_link
 
 ## The Short Summarization Data Link
 
-[https://drive.google.com/file/d/1chiBRz1A_6PmZnqnTFNEk0mP7yxzh_Am/view?usp=drive_link](Legal_Case_Tiny_Summary)
+https://drive.google.com/file/d/1chiBRz1A_6PmZnqnTFNEk0mP7yxzh_Am/view?usp=drive_link
 
 ## Link to the Presentation
 https://nuwildcat-my.sharepoint.com/:p:/g/personal/jmf8305_ads_northwestern_edu/EbTW5CZuH4VHqQGCwAqHSngBz8HbnfYYBKxhg2znYX0hmw
