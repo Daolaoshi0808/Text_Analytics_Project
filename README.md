@@ -14,7 +14,7 @@ docker run -p 8501:8501 text-interactive
 
 ## The Long Summarization Data Link
 
-[https://drive.google.com/file/d/1iUk9Fq2rtJ2SIcNO1VY-6L30-vK-CHVa/view?usp=drive_link](Legal_Case_Long_Summary)
+[https://drive.google.com/file/d/1iUk9Fq2rtJ2SIcNO1VY-6L30-vK-CHVa/view?usp=drive_link]
 
 ## The Short Summarization Data Link
 [https://drive.google.com/file/d/1KqHmN0MWO_J1phdk1bGQoQrVXZJ0fnkB/view?usp=drive_link](Legal_Case_Short_Summary)
